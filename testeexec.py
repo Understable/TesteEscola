@@ -20,6 +20,6 @@ if __name__ == "__main__":
     current_dir = os.getcwd()
     
     # Token de acesso gerado para o aplicativo Dropbox
-    access_token = "sl.BznF_aGLwCXQ9H6LvMWA7CONPmzwFgCFQHKDfc4oGmyjdnW-BQFqOLd6NvJy-MkgW0u7E-B4cOEZ1Ebwz6M1hQhkD5oa-P2NADLTqEuoaB-MK2vAKebQ04wPct_DrTmZG_ucm8uzVWz_"
+    access_token = "sl.Bz83p_wcgOppTJSMZLmDUiq8xRhkhOkt1FtKbBAaa6MWBuWkfvz_7yyJz6TwFAqzjQtN7s9WIxzogPHCjTPNPYPQWP-afOH4u1fI_ywzm_1smLAd-QrKcw1grBy-FE7cKSJpyzqGHGhe"
 
     upload_to_dropbox(current_dir, access_token)
